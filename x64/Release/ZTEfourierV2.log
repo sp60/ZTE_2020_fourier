@@ -1,0 +1,13 @@
+﻿  ZTE.cpp
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(150,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(192,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(193,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(194,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(195,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10254\source\repos\ZTEfourierV2\ZTE.cpp(196,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 909 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ZTEfourierV2.vcxproj -> C:\Users\10254\source\repos\ZTEfourierV2\x64\Release\ZTEfourierV2.exe

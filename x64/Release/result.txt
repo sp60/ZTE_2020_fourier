@@ -1,0 +1,7 @@
+ time 10.359s
+4 names: 64;
+6 names: 384;
+8 names: 5920;
+10 names: 56704;
+12 names: 667392;
+14 names: 7854016;
